@@ -1,0 +1,26 @@
+/* Topbar.css */
+.topbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #00C9FF;
+    color: #fff;
+    padding: 20px 30px;
+  }
+  
+  .topbar-left {
+    font-weight: bold;
+  }
+  
+  .topbar-right a {
+    color: #fff;
+    text-decoration: none;
+    margin-left: 30px;
+  }
+  
+  .signup-link {
+    background-color: #00B0FF;
+    padding: 5px 10px;
+    border-radius: 4px;
+  }
+  
